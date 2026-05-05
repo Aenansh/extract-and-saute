@@ -121,11 +121,31 @@ The main extraction prompt instructs the LLM to return strict JSON, ground factu
 
 ## Screenshots
 
-Place required submission screenshots in `screenshots/`:
+Submission screenshots are stored in `screenshots/`:
 
-- `extract-recipe-page.png`
-- `history-view.png`
-- `details-modal.png`
+### Recipe Extraction Page
+
+![Recipe extraction page](screenshots/1.png)
+
+### Extracted Recipe Details
+
+![Extracted recipe details](screenshots/2.png)
+
+### Saved Recipes History
+
+![Saved recipes history](screenshots/3.png)
+
+### Details Modal
+
+![Recipe details modal](screenshots/4.png)
+
+### Meal Planner Selection
+
+![Meal planner selection](screenshots/5.png)
+
+### Combined Shopping List
+
+![Combined shopping list](screenshots/7.png)
 
 ## Testing Steps
 

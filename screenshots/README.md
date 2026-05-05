@@ -1,7 +1,27 @@
-Add submission screenshots here:
+# Screenshots
 
-1. `extract-recipe-page.png`
-2. `history-view.png`
-3. `details-modal.png`
+Submission screenshots for the Recipe Extractor & Meal Planner app.
 
-Run the backend and frontend, process at least one recipe URL, then capture the three UI states listed above.
+## Recipe Extraction Page
+
+![Recipe extraction page](1.png)
+
+## Extracted Recipe Details
+
+![Extracted recipe details](2.png)
+
+## Saved Recipes History
+
+![Saved recipes history](3.png)
+
+## Details Modal
+
+![Recipe details modal](4.png)
+
+## Meal Planner Selection
+
+![Meal planner selection](5.png)
+
+## Combined Shopping List
+
+![Combined shopping list](7.png)
